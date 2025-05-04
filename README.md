@@ -21,6 +21,34 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+1. **WhatsApp**
+   - Quick message updates and editing
+   - Transcription of voice messages
+
+2. **Snapchat**
+   - Screenshot detection notifications
+   - Ephemeral messaging system
+
+3. **TikTok**
+   - Smooth infinite scrolling
+   - Easy-to-use comment section
+
+4. **Twitter**
+   - Multi-person conversations
+   - Easy sharing of viewpoints and content
+
+### App Idea
+
+**Social Study Buddy** - A collaborative study app that combines social features with educational tools.
+
+Features I'd like to implement:
+- Real-time group study sessions with shared whiteboards
+- Voice message transcription for study notes
+- Screenshot notifications when someone saves study materials
+- Infinite scroll feed of study tips and resources
+- Easy commenting and discussion on shared notes
+- Progress tracking with gamification elements
+
 ## Notes
 
 Describe any challenges encountered while building the app.
